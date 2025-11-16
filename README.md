@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly motivated backend developer with 2 years of experience in PHP and Laravel<br>framework, seeking opportunities to contribute to software development projects.<br>Skilled in Java, Hibernate, Spring Boot, and various frontend technologies. Passionate<br>about staying up to date with the latest technology trends and committed to delivering<br>clean and efficient code.
+Highly motivated backend developer, seeking opportunities to contribute to software development projects.<br>Skilled in Java, Hibernate, Spring Boot, and various frontend technologies. Passionate<br>about staying up to date with the latest technology trends and committed to delivering<br>clean and efficient code.
 
 
 ## 🌐 Socials:
